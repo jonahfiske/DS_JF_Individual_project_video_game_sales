@@ -5,7 +5,7 @@ For my individual project, I have decided to select a dataset containing the top
 # My Research Questions
 
 1. Are there certain publishers that frequently make best selling video games?
-2. Do games that are multiplatform perform better than games that only on a single platform?
+2. What is the correlation between ranking and sales for the top 50 videog games?
 3. Is there any correlation between game sales and how recently the game released?
 
 # Dataset
