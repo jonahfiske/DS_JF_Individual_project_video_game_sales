@@ -5,7 +5,7 @@ For my individual project, I have decided to select a dataset containing the top
 # My Research Questions
 
 1. Are there certain publishers that frequently make best selling video games?
-2. What is the correlation between ranking and sales for the top 50 video games?
+2. What is the correlation between ranking and sales for the top 50 video games? Is there a certain number that game sales struggle to overcome?
 3. Is there any correlation between game sales and how recently the game released?
 
 # Dataset
@@ -61,3 +61,6 @@ Used and trained a model to show linear regression.
 
 This image shows all data points.
 
+# Discussion 
+
+The findings in question 1 came as a shock to me. Nintendo dominated the list have 22 unique games in the top 50 highest selling of all time with 2nd place only have 5 unique entries. Not to mention that 3rd place was another company owned by Nintendo. The data shows that every 1 of 2 games in the top 50 games is going to be a Nintendo game meaning that Nintendo games have a far higher likelyhood of making it into the top 50.
