@@ -38,4 +38,5 @@ Tools:
 Question 1: Are there certain publishers that frequently make best selling video games?
 
 ![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/54e2672d-f346-4024-be73-fbafa019c39a)
+I used a simple counting method to count all unique instances of a publisher and then total how many times that specific publisher was named.
 
