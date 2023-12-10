@@ -20,8 +20,9 @@ My dataset comes from kaggle and is found in the data folder. The characteristic
 - Initial Release Date
 - Developer(s)
 - Publisher(s)
-
-No moddification of the dataset is required.
+- Release Year*
+  
+*To properly get the code to work, I had to add an extra column to the dataset that specific the release year. Initial Release date has day, month, and year. I did not find release day or month relevant in my anaylsis.
 
 # Methods
 
@@ -30,3 +31,4 @@ Tools:
 - Numpy for numerical operations
 - Pandas to load, clean, and analyze the dataset
 - Matplotlib to create visualizations
+- Scikit learn for linear regression
