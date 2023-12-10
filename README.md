@@ -5,7 +5,7 @@ For my individual project, I have decided to select a dataset containing the top
 # My Research Questions
 
 1. Are there certain publishers that frequently make best selling video games?
-2. What is the correlation between ranking and sales for the top 50 videog games?
+2. What is the correlation between ranking and sales for the top 50 video games?
 3. Is there any correlation between game sales and how recently the game released?
 
 # Dataset
@@ -40,4 +40,24 @@ Question 1: Are there certain publishers that frequently make best selling video
 ![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/54e2672d-f346-4024-be73-fbafa019c39a)
 
 I used a simple counting method to count all unique instances of a publisher and then total how many times that specific publisher was named.
+
+Question 2: What is the correlation between ranking and sales for the top 50 video games?
+
+![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/ecffa4cb-6950-41cd-b154-5c993a006cbb)
+
+Used and trained a model to show linear regression.
+
+![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/02cb1a71-a73b-4a9a-bcff-7ae8a22ba12a)
+
+This image shows all data points.
+
+Question 3: Is there any correlation between game sales and how recently the game released?
+
+![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/1fedd1ba-081e-4106-b61f-e0df9aec632a)
+
+Used and trained a model to show linear regression.
+
+![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/dd436338-f979-4927-9444-b121921bf50a)
+
+This image shows all data points.
 
