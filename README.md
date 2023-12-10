@@ -33,7 +33,7 @@ Tools:
 - Matplotlib to create visualizations
 - Scikit learn for linear regression
 
-#Results
+# Results
 
 Question 1: Are there certain publishers that frequently make best selling video games?
 
