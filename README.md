@@ -32,3 +32,9 @@ Tools:
 - Pandas to load, clean, and analyze the dataset
 - Matplotlib to create visualizations
 - Scikit learn for linear regression
+
+#Results
+
+Question 1: Are there certain publishers that frequently make best selling video games?
+![image](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/assets/97976436/54e2672d-f346-4024-be73-fbafa019c39a)
+
