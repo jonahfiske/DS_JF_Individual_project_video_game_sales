@@ -77,7 +77,7 @@ Overall, I had a lot of fun on this project being able to analyze data of a subj
 
 # Reference and Links
 
-[1] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+[1] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html 
 
 [2] https://www.kaggle.com/datasets/tayyarhussain/best-selling-video-games-of-all-time/
 
