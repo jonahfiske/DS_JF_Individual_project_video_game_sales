@@ -70,3 +70,7 @@ For question 2, I was surprised to find out that the data points started to stag
 The results from question 3 do not seem very conclusive when looking at all the data points. While there is a general upwards trend, it is probably skewed due to outliers. Without the outliers the upwards trend would be very slim and could just be from the fact that there are more people in the world now than there was 40 years ago. Another possibility is that gaming is more of a popular interest than it was 20 years ago. Yet again, there are still older games that outperform newer ones.
 
 Other research tends to show the same trend I am seeing. Nintendo dominates the list, a lot of games in the latter half of the list are really close to each other in sales, and there has never been a golden age where games during a specifc time period performed better. For the future, it would be worth expanding the data so it includes the genre of game and maybe that has a correlation with how well a video game performs. The age rating of games is also something to be looked into in the future as well.
+
+# Conclusion
+
+Overall, I had a lot of fun on this project being able to analyze data of a subject I know very well. While I would say I know a lot about gaming, I still learned a lot from analyzing this dataset and I wonder what other trends are hidden within it.
