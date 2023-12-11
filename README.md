@@ -64,3 +64,7 @@ This image shows all data points.
 # Discussion 
 
 The findings in question 1 came as a shock to me. Nintendo dominated the list have 22 unique games in the top 50 highest selling of all time with 2nd place only have 5 unique entries. Not to mention that 3rd place was another company owned by Nintendo. The data shows that every 1 of 2 games in the top 50 games is going to be a Nintendo game meaning that Nintendo games have a far higher likelyhood of making it into the top 50.
+
+For question 2, I was surprised to find out that the data points started to stagnate at the end proving the existence of the second half of the question. It looks like 30,000,000 dollars in sales is the amount that popular games have a hard time overcoming.
+
+The results from question 3 do not seem very conclusive when looking at all the data points. While there is a general upwards trend, it is probably skewed due to outliers. Without the outliers the upwards trend would be very slim and could just be from the fact that there are more people in the world now than there was 40 years ago. Another possibility is that gaming is more of a popular interest than it was 20 years ago. Yet again, there are still older games that outperform newer ones.
