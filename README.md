@@ -81,5 +81,5 @@ Overall, I had a lot of fun on this project being able to analyze data of a subj
 
 [2] https://www.kaggle.com/datasets/tayyarhussain/best-selling-video-games-of-all-time/
 
-[3] Code
+[3] [Code](https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/blob/main/codes/Final.ipynb)https://github.com/jonahfiske/DS_JF_Individual_project_video_game_sales/blob/main/codes/Final.ipynb
 
