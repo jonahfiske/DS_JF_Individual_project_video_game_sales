@@ -74,3 +74,12 @@ Other research tends to show the same trend I am seeing. Nintendo dominates the 
 # Conclusion
 
 Overall, I had a lot of fun on this project being able to analyze data of a subject I know very well. While I would say I know a lot about gaming, I still learned a lot from analyzing this dataset and I wonder what other trends are hidden within it.
+
+# Reference and Links
+
+[1] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+[2] https://www.kaggle.com/datasets/tayyarhussain/best-selling-video-games-of-all-time/
+
+[3] Code
+
